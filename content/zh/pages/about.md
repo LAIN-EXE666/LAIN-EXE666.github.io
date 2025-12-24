@@ -1,13 +1,11 @@
 ---
 title: 关于
-description: '关于我'
+description: '关于'
 ---
 
-# 关于我
+# 关于时雨羽衣（not me)
 
-欢迎来到我的博客！
-
-我是 Ui_shig，一名插画师和个人Vtuber。
+我是 Ui_shig ❤，一名插画师和个人Vtuber。
 
 ## 简介
 

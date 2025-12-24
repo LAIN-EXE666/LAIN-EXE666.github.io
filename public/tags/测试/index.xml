@@ -1,1 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>测试 on Awesome Hugo blog</title><link>https://hba.sid.one/tags/%E6%B5%8B%E8%AF%95/</link><description>Recent content in 测试 on Awesome Hugo blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Mon, 23 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://hba.sid.one/tags/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml"/><item><title>我的第一篇文章</title><link>https://hba.sid.one/posts/my-first-post/</link><pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate><guid>https://hba.sid.one/posts/my-first-post/</guid><description>&lt;p&gt;这是我的第一篇博客文章。&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>测试 on Awesome Hugo blog</title>
+    <link>http://localhost:4472/tags/%E6%B5%8B%E8%AF%95/</link>
+    <description>Recent content in 测试 on Awesome Hugo blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 23 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:4472/tags/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第一篇文章</title>
+      <link>http://localhost:4472/posts/my-first-post/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:4472/posts/my-first-post/</guid>
+      
+      <description>&lt;p&gt;这是我的第一篇博客文章。&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

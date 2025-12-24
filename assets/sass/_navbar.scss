@@ -61,19 +61,48 @@
       transition: transform .18s ease, opacity .2s ease, box-shadow .25s ease, background .25s ease, border-color .25s ease;
       cursor: pointer;
       outline: none;
+      outline-style: none;
+      -webkit-outline: none;
+      -moz-outline: none;
       appearance: none;
+      -webkit-appearance: none;
+      -moz-appearance: none;
+      box-sizing: border-box;
+
+      &:focus {
+        outline: none !important;
+        outline-style: none !important;
+        box-shadow: 0 0 0 3px rgba(0, 63, 255, 0.2);
+      }
+
+      &:focus:not(:focus-visible) {
+        outline: none !important;
+        box-shadow: 0 8px 22px rgba(0, 0, 0, 0.08);
+      }
+
+      &:focus-visible {
+        outline: none !important;
+        box-shadow: 0 0 0 3px rgba(0, 63, 255, 0.2);
+      }
+
+      &::-moz-focus-inner {
+        border: 0;
+        padding: 0;
+      }
+
+      &:-moz-focusring {
+        outline: none;
+      }
 
       &:hover {
         opacity: 1;
         box-shadow: 0 8px 22px rgba(0, 0, 0, 0.08);
+        outline: none;
       }
 
       &:active {
         transform: scale(0.95);
-      }
-
-      &:focus-visible {
-        box-shadow: 0 0 0 3px rgba(0, 63, 255, 0.2);
+        outline: none;
       }
 
       .mode-icon {

@@ -3,9 +3,7 @@ title: About
 description: 'About me'
 ---
 
-# About Me
-
-Welcome to my blog!
+# About （not me)
 
 I'm Ui_shig, an illustrator and personal Vtuber.
 
