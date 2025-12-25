@@ -48,6 +48,9 @@
     {{ template "_internal/google_analytics.html" . }}
     {{- end -}}
 
+    {{/* Twemoji - Twitter Emoji Support */}}
+    <script src="https://cdn.jsdelivr.net/npm/twemoji@latest/dist/twemoji.min.js" crossorigin="anonymous"></script>
+
     {{/* Extend head with user supplied partial */}}
     {{ if templates.Exists "partials/custom-head.html" }}
       {{ partial "custom-head.html" . }}

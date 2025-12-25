@@ -1,0 +1,40 @@
+// Twemoji - Twitter Emoji Styles
+img.twemoji {
+    height: 1em;
+    width: 1em;
+    margin: 0 .05em 0 .1em;
+    vertical-align: -0.1em;
+    display: inline-block;
+    // Ensure emojis look good in both light and dark mode
+    opacity: 1;
+    // Prevent emojis from being too large
+    max-width: 1.2em;
+    max-height: 1.2em;
+}
+
+// Ensure emojis don't break line layout
+span.emoji,
+.twemoji {
+    white-space: nowrap;
+}
+
+// Make emojis in headers and titles appropriately sized
+h1 .twemoji,
+h2 .twemoji,
+h3 .twemoji,
+h4 .twemoji,
+h5 .twemoji,
+h6 .twemoji {
+    height: 1.2em;
+    width: 1.2em;
+    vertical-align: -0.15em;
+}
+
+// Emojis in code blocks should be smaller
+code .twemoji,
+pre .twemoji {
+    height: 0.9em;
+    width: 0.9em;
+    vertical-align: -0.1em;
+}
+

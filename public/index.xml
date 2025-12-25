@@ -1,11 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Awesome Hugo blog</title>
+    <title>文章 on Awesome Hugo blog</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Awesome Hugo blog</description>
+    <description>Recent content in 文章 on Awesome Hugo blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 25 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C&#43;&#43; Library Awesome</title>
+      <link>http://localhost:1313/posts/ui_shig_001/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/ui_shig_001/</guid>
+      
+      <description>&lt;h1 align=&#34;center&#34;&gt;C++ Library Awesome&lt;/h1&gt;
+&lt;h4 align =&#34;center&#34;&gt;  💻 Clean Ui | 🎉 持续更新 | ❤️ 功能丰富  &lt;/h4&gt;  
+&lt;p align=&#34;center&#34;&gt;
+  &lt;a href=&#34;https://github.com/LAIN-EXE666/LABRARY&#34;&gt; 
+   ❤️ 项目链接 ❤️
+    &lt;/a&gt;  
+&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;🎨 &lt;strong&gt;Clean Ui&lt;/strong&gt; : modern type ，简洁&lt;/li&gt;
+&lt;li&gt;🚀 &lt;strong&gt;持续更新&lt;/strong&gt; : 持续更新中（may be）&lt;/li&gt;
+&lt;li&gt;🧩 &lt;strong&gt;功能丰富&lt;/strong&gt; : 多种功能(指增删查改)&lt;/li&gt;
+&lt;li&gt;🧸 &lt;strong&gt;易于使用&lt;/strong&gt; : 开箱即用 ：）&lt;/li&gt;
+&lt;li&gt;🪟 &lt;strong&gt;窗口自由&lt;/strong&gt; : 启用docking分支，窗口自由停靠，调整大小&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tech&#34;&gt;Tech&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;⚡️ C++17&lt;/li&gt;
+&lt;li&gt;🎨 Dear ImGui&lt;/li&gt;
+&lt;li&gt;⚓ ImGui Docking Branch&lt;/li&gt;
+&lt;li&gt;🛠️ CMake&lt;/li&gt;
+&lt;li&gt;🕹️ Raylib&lt;/li&gt;
+&lt;li&gt;🗃️ sqlite3&lt;/li&gt;
+&lt;li&gt;🌉 Rlimgui&lt;/li&gt;
+&lt;li&gt;🔐 OpenSSL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;自言自语&#34;&gt;自言自语&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这个项目算是完成了（吧？）🤔，其实一开始并没有打算做ui，光是cmake配置就折腾了几天（get工程化experience) 😅，
+然后了解到了imgui(其实是不想学qt 🤫),感觉很cool 😎,其实原本希望更多的raylib功能,结果最后raylib就只用来创建窗口和处理输入了，因为raylib的高级功能好像有点复杂（涉及到计算机视觉？👀）。原来期望的音效 🎵 和背景音乐，还有图片插入 🖼️，都没有实现（懒 🛌），不过后续可能会加上（可能性不大 👻）。一些复杂特殊效果还有配色都是参考了其他优秀作者，b站和ai的力量真是强大 💪。总之，这个项目让我学到了很多东西(markdown语法 📝），算是一个不错的练手项目吧 ✨。
+最后，祝大家圣诞快乐 🎄，新年快乐 🎆！&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>关于</title>
       <link>http://localhost:1313/pages/about/</link>
@@ -14,15 +56,15 @@
       <guid>http://localhost:1313/pages/about/</guid>
       
       <description>&lt;h1 id=&#34;关于时雨羽衣not-me&#34;&gt;关于时雨羽衣（not me)&lt;/h1&gt;
-&lt;p&gt;我是 Ui_shig ❤，一名插画师和个人Vtuber。&lt;/p&gt;
+&lt;p&gt;我是 Ui_shig ❤，一名插画师和个人Vtuber。😊&lt;/p&gt;
 &lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;
-&lt;p&gt;文鸟と暮らしています❤&lt;/p&gt;
+&lt;p&gt;文鸟と暮らしています❤ 🐦&lt;/p&gt;
 &lt;h2 id=&#34;作品&#34;&gt;作品&lt;/h2&gt;
 &lt;p&gt;お仕事:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;『幼なじみが絶対に負けないラブコメ』&lt;/li&gt;
-&lt;li&gt;『大空スバル』&lt;/li&gt;
-&lt;li&gt;『千灯ゆうひ』&lt;/li&gt;
+&lt;li&gt;『幼なじみが絶対に負けないラブコメ』 &amp;#x2764;&amp;#xfe0f;&lt;/li&gt;
+&lt;li&gt;『大空スバル』 🎨&lt;/li&gt;
+&lt;li&gt;『千灯ゆうひ』 ✨&lt;/li&gt;
 &lt;/ul&gt;</description>
       
     </item>
